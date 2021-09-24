@@ -33,3 +33,8 @@ if you read this you are cool
 I like to eat mango ice cream
 suddenly an extra line
 10
+
+Hello my name is Jaden.
+We are in Data 301.
+This is for a merge conflict.
+We are having fun.
